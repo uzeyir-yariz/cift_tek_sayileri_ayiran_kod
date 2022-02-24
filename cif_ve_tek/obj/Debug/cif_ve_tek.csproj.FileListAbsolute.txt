@@ -1,0 +1,9 @@
+C:\Users\üzeyir\source\repos\cif_ve_tek\cif_ve_tek\bin\Debug\cif_ve_tek.exe
+C:\Users\üzeyir\source\repos\cif_ve_tek\cif_ve_tek\bin\Debug\cif_ve_tek.pdb
+C:\Users\üzeyir\source\repos\cif_ve_tek\cif_ve_tek\obj\Debug\cif_ve_tek.csproj.AssemblyReference.cache
+C:\Users\üzeyir\source\repos\cif_ve_tek\cif_ve_tek\obj\Debug\cif_ve_tek.Form1.resources
+C:\Users\üzeyir\source\repos\cif_ve_tek\cif_ve_tek\obj\Debug\cif_ve_tek.Properties.Resources.resources
+C:\Users\üzeyir\source\repos\cif_ve_tek\cif_ve_tek\obj\Debug\cif_ve_tek.csproj.GenerateResource.cache
+C:\Users\üzeyir\source\repos\cif_ve_tek\cif_ve_tek\obj\Debug\cif_ve_tek.csproj.CoreCompileInputs.cache
+C:\Users\üzeyir\source\repos\cif_ve_tek\cif_ve_tek\obj\Debug\cif_ve_tek.exe
+C:\Users\üzeyir\source\repos\cif_ve_tek\cif_ve_tek\obj\Debug\cif_ve_tek.pdb
